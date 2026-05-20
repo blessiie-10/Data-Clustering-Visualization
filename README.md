@@ -4,4 +4,4 @@ Python
 NumPy
 Matplotlib
 Scikit-learn
-Jupyter Notebook (recommended)
+Jupyter Notebook
